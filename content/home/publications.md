@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Related Publications
 subtitle: ''
 
 content:
@@ -38,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Have you worked with any of the MacBERTh models? Get in touch with the project team to list your publication here.
 {{% /callout %}}
