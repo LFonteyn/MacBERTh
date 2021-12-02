@@ -16,4 +16,5 @@ image:
   filename: screenshot-2021-12-02-at-13.31.00.png
   focal_point: Smart
   preview_only: false
+  caption: "Image credits: MacBERTh team"
 ---
