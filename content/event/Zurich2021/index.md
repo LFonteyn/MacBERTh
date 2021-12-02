@@ -31,7 +31,7 @@ image:
 links:
 url_code: ""
 url_pdf: "https://www.prepcomp.uzh.ch/dam/jcr:b95556be-c706-471b-bfaf-db4f367f3c67/Fonteyn&Manjavacas.pdf"
-url_slides: ""
+url_slides: "https://docs.google.com/presentation/d/1f0AwUOo5m0ZCaoPI_VMs-ePhQSE3oyG9/edit?usp=sharing&ouid=105602694083485406436&rtpof=true&sd=true"
 url_video: ""
 
 # Markdown Slides (optional).
