@@ -49,3 +49,5 @@ url_video: ""
 # projects:
 # - example
 ---
+
+**Slides will be uploaded closer to date**

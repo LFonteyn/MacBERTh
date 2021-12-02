@@ -17,4 +17,9 @@ image:
   focal_point: Smart
   preview_only: false
   caption: "Image credits: MacBERTh team"
+links:
+url_code: ""
+url_pdf: ""
+url_slides: "https://docs.google.com/presentation/d/1Dh33cCmZ4vQZL9ynrYIgAcm9RTl-bLurzrQ5mM0j-kk/edit?usp=sharing"
+url_video: ""
 ---
