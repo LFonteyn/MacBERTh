@@ -19,7 +19,8 @@ date: 2022-03-02T11:00:14.615Z
 date_end: 2022-03-02T12:00:00.000Z
 all_day: false
 links:
-  - url: https://www.universiteitleiden.nl/en/events/2022/02/lucdh-lunchtime-speaker-series-fonteyn-manjavacas
+url: https://www.universiteitleiden.nl/en/events/2022/02/lucdh-lunchtime-speaker-series-fonteyn-manjavacas
+url_slides: https://docs.google.com/presentation/d/1ZxZgGNAUGGxOYxEK3nljH5AKkCHW_8E0Bs4Z-sFhce4/edit?usp=sharing
 event: LUCDH Lunch lecture
 event_url: https://www.universiteitleiden.nl/en/events/2022/02/lucdh-lunchtime-speaker-series-fonteyn-manjavacas
 publishDate: 2022-03-02T13:34:14.633Z
