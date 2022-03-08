@@ -26,6 +26,21 @@ abstract: >-
   We show this on the basis of a variety of downstream tasks, ranging from established tasks such as Part-of-Speech tagging, Named Entity Recognition and Word Sense Disambiguation, to ad-hoc tasks like Sentence Periodization, which are specifically designed to test historically relevant processing.
 draft: false
 featured: true
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: 'https://hal.inria.fr/hal-03592137/document'
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
 image:
   filename: featured.png
   focal_point: Smart
