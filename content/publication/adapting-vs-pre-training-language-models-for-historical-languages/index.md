@@ -5,6 +5,8 @@ publication_types:
 authors:
   - Enrique Manjavacas
   - Lauren Fonteyn
+publication: "*HAL Open Science*"
+publication_short: "*HAL*"
 abstract: >-
   As large language models such as BERT are becoming increasingly popular in
   Digital Humanities (DH), the question has arisen as to how such models can be
