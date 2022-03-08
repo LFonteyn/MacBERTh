@@ -2,7 +2,9 @@
 title: "[Pre-Print] Adapting vs Pre-training Language Models for Historical Languages"
 publication_types:
   - "3"
-authors: []
+authors:
+  - Enrique Manjavacas
+  - Lauren Fonteyn
 abstract: >-
   As large language models such as BERT are becoming increasingly popular in
   Digital Humanities (DH), the question has arisen as to how such models can be
