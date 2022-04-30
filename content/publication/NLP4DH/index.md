@@ -16,7 +16,7 @@ abstract: >-
   language and later adapted to historical language.
 
   [Note: The updated and extended version of this paper is: "Adapting vs Pre-training Language Models for Historical Languages"]
-url_pdf: ""
+url_pdf: "http://icon2021.nits.ac.in/resources/nlp4dh.pdf#page=35"
 title: "MacBERTh: Development and Evaluation of a  Historically Pre-trained
   Language Model for English (1450-1950)"
 publication_types:
@@ -32,14 +32,14 @@ summary: This paper presents "MacBERTh", a transformer-based language model
   language and later adapted to historical language.
 url_dataset: ""
 url_project: ""
-publication_short: In *NLP4DH*
+publication_short: In *Natural Language Processing for Digital Humanities (NLP4DH)*
 url_source: ""
 url_video: ""
 author_notes:
   - First autor
   - Second author
 doi: ""
-publication: In *NLP4DH workshop*
+publication: In *Proceedings of the Workshop on Natural Language Processing for Digital Humanities (NLP4DH)*
 featured: true
 tags: []
 image:
