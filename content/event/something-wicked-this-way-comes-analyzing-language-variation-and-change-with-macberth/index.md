@@ -20,7 +20,8 @@ event_url: https://www.geisteswissenschaften.fu-berlin.de/izeus/veranstaltungen/
 publishDate: 2022-05-13T08:29:34.240Z
 draft: false
 featured: false
-authors: []
+authors:
+  - Lauren Fonteyn & Enrique Manjavacas
 image:
   filename: screenshot-2022-05-13-at-10.33.41.png
   focal_point: Smart

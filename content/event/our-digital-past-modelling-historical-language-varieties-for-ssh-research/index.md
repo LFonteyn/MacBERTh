@@ -11,7 +11,7 @@ publishDate: 2021-12-02T12:30:21.299Z
 draft: false
 featured: false
 authors:
-  - LaurenFonteyn & Enrique Manjavacas
+  - Lauren Fonteyn & Enrique Manjavacas
 image:
   filename: screenshot-2021-12-02-at-13.31.00.png
   focal_point: Smart
