@@ -10,8 +10,12 @@ location: Freie Universität Berlin, Germany
 date: 2022-05-10T14:15:34.219Z
 date_end: 2022-05-10T16:00:00.000Z
 all_day: false
-links: []
-event: Dahlem Lecture in Linguistics
+links:
+  url_code: ""
+  url_pdf: ""
+  url_slides: "https://docs.google.com/presentation/d/1HFCymuqS2kn96iCfEsseLbbyF5aUDrT4BQpj-KXk4TY/edit?usp=sharing"
+  url_video: ""
+event: Dahlem Lectures in Linguistics
 event_url: https://www.geisteswissenschaften.fu-berlin.de/izeus/veranstaltungen/dahlemlectureslinguistics/index.html
 publishDate: 2022-05-13T08:29:34.240Z
 draft: false
