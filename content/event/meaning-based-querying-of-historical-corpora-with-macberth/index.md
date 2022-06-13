@@ -8,10 +8,9 @@ abstract: >-
   encoded in linguistic corpus data in a (semi-)automatic way. Because the
   contextualized embeddings MacBERTh produces can be used to measure semantic
   ‘closeness’ between word/phrase/sentence tokens, they can be manipulated to
-  enable semantic searches within textual material. By creating embeddings with
-  MacBERTh, researchers will also be able to map out the distances
-
-  between senses of linguistic items (in different texts and different time stages) as formalized in their representational distances. In this demonstration, we walk participants through case studies that show how MacBERTh can support historical corpus analysis (from data collection to pre-processing to (error) analysis).
+  enable automatic word sense disambiguation. 
+  
+  In this demonstration, we walk participants through case studies that show how MacBERTh can be fine-tuned for historical word sense disambiguation, and we introduce an example case study in humanities research where automated word sense disambiguation is relevant.
 location: University of Luxembourg (virtual + on site)
 date: 2022-06-02T11:30:47.973Z
 date_end: 2022-06-01T13:00:00.000Z
