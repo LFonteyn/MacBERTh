@@ -32,7 +32,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://hal.inria.fr/hal-03592137/document'
+url_pdf: 'https://jdmdh.episciences.org/9690/pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -47,8 +47,7 @@ image:
   preview_only: true
   caption: "Image Credits: MacBERTh team"
 summary: >-
-  This is a pre-print. Please cite the published paper. Focusing on the domain
-  of historical text in English, this paper demonstrates that pre-training on
+  Focusing on the domain of historical text in English, this paper demonstrates that pre-training on
   domain-specific (i.e. historical) data from scratch yields a generally
   stronger background model than adapting a present-day language model.
 

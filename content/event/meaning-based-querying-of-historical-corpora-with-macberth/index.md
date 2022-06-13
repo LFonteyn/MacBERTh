@@ -18,6 +18,7 @@ date_end: 2022-06-01T13:00:00.000Z
 all_day: false
 event: DHBenelux 2022
 event_url: https://2022.dhbenelux.org/
+url_code: "https://doi.org/10.5281/zenodo.6592338"
 publishDate: 2022-04-30T09:02:47.985Z
 draft: false
 featured: true
