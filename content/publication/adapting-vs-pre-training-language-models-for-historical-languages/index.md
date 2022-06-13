@@ -1,12 +1,11 @@
 ---
-title: "[Pre-Print] Adapting vs Pre-training Language Models for Historical Languages"
+title: Adapting vs Pre-training Language Models for Historical Languages
 publication_types:
   - "3"
 authors:
   - Enrique Manjavacas
   - Lauren Fonteyn
-publication: "*HAL Open Science*"
-publication_short: "*HAL*"
+publication: "*Journal of Data Mining and Digital Humanities*"
 abstract: >-
   As large language models such as BERT are becoming increasingly popular in
   Digital Humanities (DH), the question has arisen as to how such models can be
@@ -25,32 +24,27 @@ abstract: >-
 
   We show this on the basis of a variety of downstream tasks, ranging from established tasks such as Part-of-Speech tagging, Named Entity Recognition and Word Sense Disambiguation, to ad-hoc tasks like Sentence Periodization, which are specifically designed to test historically relevant processing.
 draft: false
+url_pdf: https://jdmdh.episciences.org/9690/pdf
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: 'https://jdmdh.episciences.org/9690/pdf'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: true
   caption: "Image Credits: MacBERTh team"
 summary: >-
-  Focusing on the domain of historical text in English, this paper demonstrates that pre-training on
-  domain-specific (i.e. historical) data from scratch yields a generally
-  stronger background model than adapting a present-day language model.
+  Focusing on the domain of historical text in English, this paper demonstrates
+  that pre-training on domain-specific (i.e. historical) data from scratch
+  yields a generally stronger background model than adapting a present-day
+  language model.
 
   We show this on the basis of a variety of downstream tasks, ranging from established tasks such as Part-of-Speech tagging, Named Entity Recognition and Word Sense Disambiguation, to ad-hoc tasks like Sentence Periodization, which are specifically designed to test historically relevant processing.
+url_dataset: ""
+url_project: ""
+publication_short: "*JDMDH*"
+url_source: ""
+url_video: ""
 date: 2022-03-08T17:21:00.996Z
+url_slides: ""
+url_poster: ""
+url_code: ""
 ---
