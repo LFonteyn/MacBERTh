@@ -28,6 +28,7 @@ date_end: 2022-06-08T14:00:00.000Z
 all_day: false
 event: Modeling diachronic variation
 event_url: https://sfb1102.uni-saarland.de/sfbunisb/uploads/2022/06/SFB-June2022-program-et-sd.pdf
+url_slides: "https://docs.google.com/presentation/d/1mVA8unBaLeQ6mR7q4WYefu4GMM4-Jr6OwM5eUrIYmcQ/edit?usp=sharing"
 publishDate: 2022-06-13T14:26:38.333Z
 draft: false
 featured: false
@@ -35,4 +36,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  caption: 'Image credit: MacBERTh team'
 ---
