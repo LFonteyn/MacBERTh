@@ -16,6 +16,7 @@ At present, a model pre-trained on historical English (1450-1950) has been publi
 
 **How to cite:**
 
-We have written up a paper describing the English model and its evaluation, which will be published soon. We will add the citation details as soon as they are known.
+* **MacBERTh (English):** When using the English model (MacBERTh), please cite the following paper (BibTeX can be found using the 'cite' button in 'Project Publications'):
 
-<!-- Manjavacas, Enrique & Lauren Fonteyn. MacBERTh: Development and Evaluation of a Historically Pre-trained Language Model for English (1450-1950).  -->
+  * **Manjavacas, Enrique & Lauren Fonteyn. 2022. Adapting vs. Pre-training Language Models for Historical Languages.** *Journal of Data Mining & Digital Humanities* jdmdh:9152. <https://doi.org/10.46298/jdmdh.9152>
+* **GysBERT (Dutch):**  We have written up a paper describing the Dutch model and its evaluation, which will be published soon. We will add the citation details as soon as they are known.
