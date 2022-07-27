@@ -43,6 +43,13 @@ event_url: https://dh2022.adho.org/program/presentations
 publishDate: 2022-06-13T14:14:50.839Z
 draft: false
 featured: false
+
+links:
+url_code: ""
+url_pdf: ""
+url_slides: "https://docs.google.com/presentation/d/1LkhdhNYv95Rf75lxh7Cg23xDBEGjtiPQB3uIMvIcRhA/edit?usp=sharing"
+url_video: "https://surfdrive.surf.nl/files/index.php/s/aQLkhz5uBZOwI2X"
+
 image:
   filename: featured
   focal_point: Smart
