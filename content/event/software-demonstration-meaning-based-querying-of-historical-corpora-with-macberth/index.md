@@ -31,4 +31,10 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+
+links:
+url_code: ""
+url_pdf: ""
+url_slides: "https://docs.google.com/presentation/d/1i5DF4eEyCshjjX9VFvCUAu0zAZB1rqD4ozOcSiatz0Q/edit?usp=sharing"
+url_video: ""
 ---
