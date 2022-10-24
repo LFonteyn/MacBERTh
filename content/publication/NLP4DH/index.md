@@ -16,7 +16,7 @@ abstract: >-
   language and later adapted to historical language.
 
   [Note: The updated and extended version of this paper is: "Adapting vs Pre-training Language Models for Historical Languages"]
-url_pdf: "http://icon2021.nits.ac.in/resources/nlp4dh.pdf#page=35"
+url_pdf: "https://aclanthology.org/2021.nlp4dh-1.4/"
 title: "MacBERTh: Development and Evaluation of a  Historically Pre-trained
   Language Model for English (1450-1950)"
 publication_types:
