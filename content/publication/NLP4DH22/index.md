@@ -14,8 +14,7 @@ abstract: >-
   task. Moreover, this paper marks the release of GysBERT, a LLM for historical Dutch.
 
 url_pdf: ""
-title: "MacBERTh: Development and Evaluation of a  Historically Pre-trained
-  Language Model for English (1450-1950)"
+title: "Non-Parametric Word Sense Disambiguation for Historical Languages"
 publication_types:
   - "1"
 authors:
