@@ -39,7 +39,7 @@ author_notes:
   - First autor
   - Second author
 doi: ""
-publication: In *Proceedings of the Workshop on Natural Language Processing for Digital Humanities (NLP4DH)*
+publication: In *Proceedings of the International Workshop on Natural Language Processing for Digital Humanities (NLP4DH)*
 featured: true
 tags: []
 image:
