@@ -13,7 +13,7 @@ abstract: >-
   from large lexical databases, and (ii) a small real-world scenario involving an ad-hoc WSD
   task. Moreover, this paper marks the release of GysBERT, a LLM for historical Dutch.
 
-url_pdf: ""
+url_pdf: "https://aclanthology.org/2022.nlp4dh-1.16.pdf"
 title: "Non-Parametric Word Sense Disambiguation for Historical Languages"
 publication_types:
   - "1"
