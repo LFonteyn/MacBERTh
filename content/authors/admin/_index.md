@@ -15,7 +15,7 @@ highlight_name: true
   * **Manjavacas, Enrique & Lauren Fonteyn. 2022. Adapting vs. Pre-training Language Models for Historical Languages.** *Journal of Data Mining & Digital Humanities* jdmdh:9152. <https://doi.org/10.46298/jdmdh.9152>
 * **GysBERT (Dutch):** When using the Dutch model (GysBERT), please cite the following paper (BibTeX can be found using the 'cite' button in 'Project Publications'):
 
-  * **Manjavacas, Enrique & Lauren Fonteyn. 2022. Non-Parametric Word Sense Disambiguation for Historical Languages.** *Proceedings of the 2nd International Workshop on Natural Language Processing for Digital Humanities (NLP4DH)* \[Further citation details TBA soon!]
+  * **Manjavacas, Enrique & Lauren Fonteyn. 2022. Non-Parametric Word Sense Disambiguation for Historical Languages.** *Proceedings of the 2nd International Workshop on Natural Language Processing for Digital Humanities (NLP4DH)*, 123-134. Association for Computational Linguistics. <https://aclanthology.org/2022.nlp4dh-1.16>
 
 MacBERTh and GysBERT are language models (more specifically, BERT models) pre-trained on historical textual material (date range: 1450-1950).
 
